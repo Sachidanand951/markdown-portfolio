@@ -10,3 +10,6 @@
 * Item6
  * Item6a
  * Item6b
+
+*Italic Font*
+**Bold Font**
